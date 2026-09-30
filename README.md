@@ -2,10 +2,20 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=500&color=000000&center=true&multiline=true&repeat=false&width=435&height=110&lines=Salut%2C+moi+c%27est+Thomas+%F0%9F%91%8B%F0%9F%8F%BB;D%C3%A9veloppeur+Web+Fullstack."
-      alt="Typing SVG"
-    >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=200&color=FFFFFF&center=true&multiline=true&repeat=false&width=435&height=110&lines=Salut%2C+moi+c%27est+Thomas+%F0%9F%91%8B%F0%9F%8F%BB;D%C3%A9veloppeur+Web+Fullstack."
+      >
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=200&color=000000&center=true&multiline=true&repeat=false&width=435&height=110&lines=Salut%2C+moi+c%27est+Thomas+%F0%9F%91%8B%F0%9F%8F%BB;D%C3%A9veloppeur+Web+Fullstack."
+      >
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=200&color=000000&center=true&multiline=true&repeat=false&width=435&height=110&lines=Salut%2C+moi+c%27est+Thomas+%F0%9F%91%8B%F0%9F%8F%BB;D%C3%A9veloppeur+Web+Fullstack."
+        alt="Typing SVG"
+      >
+    </picture>
   </a>
 </p>
 
@@ -118,10 +128,20 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=500&color=000000&center=true&multiline=true&width=435&height=100&lines=Merci+pour+votre+visite+%F0%9F%99%8C%F0%9F%8F%BB"
-      alt="Merci pour votre visite"
-    >
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=500&color=FFFFFF&center=true&multiline=true&width=435&height=100&lines=Merci+pour+votre+visite+%F0%9F%99%8C%F0%9F%8F%BB"
+      >
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=500&color=000000&center=true&multiline=true&width=435&height=100&lines=Merci+pour+votre+visite+%F0%9F%99%8C%F0%9F%8F%BB"
+      >
+      <img
+        src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=25&duration=3500&pause=500&color=000000&center=true&multiline=true&width=435&height=100&lines=Merci+pour+votre+visite+%F0%9F%99%8C%F0%9F%8F%BB"
+        alt="Merci pour votre visite"
+      >
+    </picture>
   </a>
 </p>
 
